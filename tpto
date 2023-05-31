@@ -1,19 +1,52 @@
 [{
-  "name" : "yazilacak isim",
-  "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi mauris, lacinia sit amet efficitur quis, viverra eget turpis. Nulla nec libero sit amet sem.",
+  "name" : "Fashion Apparel Sustainable and Eco-friendly Textiles",
+  "content" : "This category includes patents related to fashion design, garment construction techniques, fasteners, closures, or innovations in clothing accessories.",
 },{
-  "name" : "yazilacak isim",
-  "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi mauris, lacinia sit amet efficitur quis, viverra eget turpis. Nulla nec libero sit amet sem.",
+  "name" : "MX20210007586 ",
+  "content" : "A hanger-template for folding and hanging items of clothing, collapsible and articulated, which transforms into a template to facilitate the folding, transport and storage of shirts, T-shirts and other items of clothing. It comprises a flat support (1), attached to the hanging hook (2), and two divergent arms (3) featuring corresponding longitudinal guides (4); two L-shaped extensions (6), each with a short side (61) whose extremity is movable along the corresponding guide (4), and a long side (62) and a base (8) forming the shoulders of the hanger, and which is articulated to the vertices of both extensions (6). It features a folded position wherein the two long sides (62) are aligned or superimposed and the base (8) is next to the support (1), and an extended position wherein the two long sides (62) are disposed parallel and separated by the width of the hanger.",
 },{
-  "name" : "yazilacak isim",
-  "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi mauris, lacinia sit amet efficitur quis, viverra eget turpis. Nulla nec libero sit amet sem.",
+  "name" : "CN20218061519",
+  "content" : "The present invention relates to a coating method wherein a silicone composition crosslinkable by polyaddition reactions is used to form a silicone elastomer on an open-work and/or elastic textile medium. The crosslinking of the silicone composition is obtained by irradiating with UV radiation, the source of which is a UV-LED lamp.",
 },{
-  "name" : "yazilacak isim",
-  "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi mauris, lacinia sit amet efficitur quis, viverra eget turpis. Nulla nec libero sit amet sem.",
+  "name" : "WO2022KR15306",
+  "content" : "The present application relates to a method for controlling a clothing treatment apparatus, the clothing treatment apparatus having: a tub for storing water; a drum rotatably provided inside the tub to store an object to be washed, and having a drum input port; a detergent storage part for storing detergent; a storage part water supply pipe for supplying water to the detergent storage part; a tub connection pipe for guiding water discharged from the detergent storage part to the drum input port; a tub water supply pipe for supplying water to the tub; a drain provided so as to pass through the tub; and a drain pump connected to the drain.",
 },{
-  "name" : "yazilacak isim",
-  "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi mauris, lacinia sit amet efficitur quis, viverra eget turpis. Nulla nec libero sit amet sem.",
+  "name" : "US 20230124736 A1",
+  "content" : "A process for making a garment, provided at least with a trunk (T), a right sleeve (MD) and a left sleeve (MS), includes the steps of: producing a tubular textile article (3), by means of a textile machine, having a shape with cylindrical surface extended around a central axis (X) between an upper edge (4) and a lower edge (5), wherein on the tubular textile article a front side (6) and a rear side (7) are definable, divided from each other with respect to a median plane (A); defining or identifying the textile article a plurality of cutting lines; cutting the textile article along the plurality of cutting lines so as to define and separate a plurality of fabric portions from one another; joining the fabric portions so as to obtain the trunk (T) of the garment, the right sleeve (MD) and the left sleeve (MS). ",
 },{
-  "name" : "yazilacak isim",
-  "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nisi mauris, lacinia sit amet efficitur quis, viverra eget turpis. Nulla nec libero sit amet sem.",
+  "name" : "US 20230133229 A1",
+  "content" : "A surface-colored glass cloth including a glass cloth which includes a warp and a weft and a plurality of colored portions which are attached to a surface of the glass cloth is disclosed. One colored portion is disposed in each area including one colored point. An average distance D between the adjacent colored points is 0.50 to 10.00 mm.",
+},{
+  "name" : "US 20210069056 A1",
+  "content" : "A method involving a garment which includes three active parts, which are one abdominal active part intended to surround the subject's abdomen and two lower active parts each intended to surround one of the subject's lower limbs, each of the active parts including at least one bladder fillable with a fluid so as to obtain a homogeneous positive pressure applied by the active part to the whole of the corresponding body part of the subject among the abdomen and the lower limbs. The pressure application garment includes: for each active part, at least one interface pressure sensor configured to measure a pressure at the interface between the active part and the corresponding body part of the subject while being positioned between the active part and the corresponding body part of the subject, and a control unit.",
+},{
+  "name" : "US 20230131718 A1 ",
+  "content" : "A disposal method for waste fabric containing polyester, spandex, and dye includes the following steps: step (a): providing a waste fabric containing polyester, spandex, and dye; and step (b): performing a first-stage treatment including elution on the waste fabric to obtain a first liquid material and a first solid material. The first-stage treatment includes elution with a cosolvent mixed with an oxidant. The first solid material includes recycled polyester, and/or the first liquid material includes recycled spandex or degraded spandex.",
+},{
+  "name" : "US 20230132013 A1",
+  "content" : "A method for processing a waste fabric containing polyester and wool fibers includes the following steps. The method is to treat the waste fabric with an acid catalyst aqueous solution at 160° C. to 170° C. The wool fibers are degraded and completely separated from the polyester fibers in a treatment process. Afterwards, the polyester fibers are recycled.",
+},{
+  "name" : "US 20230126608 A1",
+  "content" : "A method for processing a waste fabric containing polyester and cotton fibers includes the following steps. The first step is providing a plurality of fabric scraps each containing polyester fibers and cotton fibers. The next step is allowing an acid catalyst aqueous solution to repeatedly contact and react with the fabric scraps at 130° C. to 160° C. in a circulation and backflow manner, so as to separate the cotton fibers from each of the fabric scraps. The last step is recycling the reacted acid catalyst aqueous solution and fabric scraps.",
+},{
+  "name" : "US 20230127947 A1",
+  "content" : "A disposal method for waste fabric containing polyester, nylon, and dye includes the following steps: step (a): providing a waste fabric containing polyester, nylon, and dye; and step (b): performing a first-stage treatment including acid treatment on the waste fabric to obtain a first liquid material and a first solid material. The first-stage treatment includes acid treatment with an acid liquid mixed with an oxidant. The first solid material includes recycled polyester, and/or the first liquid material includes recycled nylon or degraded nylon.",
+},{
+  "name" : "US 20230124761 A1",
+  "content" : "Methods and systems of the present invention use mixed textile feedstock, which may include post-consumer waste garments, scrap fabric and/or other textile materials as a raw feed material to produce isolated cellulose and other isolated molecules having desirable properties that can be used and be used in the textile and apparel industries, and in other industries. A multi-stage process is provided, in which mixed textile feed material is subjected to one or more pretreatment stages, followed by at least two pulping treatments for isolating cellulose molecules and other molecular constituents, such as polyester. ",
+},{
+  "name" : "US 20230069369 A1",
+  "content" : "A textile recycling method receives textile-waste-to-be-recycled, sorts the waste to isolate cellulose-containing articles from non-cellulose-containing articles, and re-sizes at least some of the cellulose-containing articles to create feedstock. The feedstock is processed in a cellulose solvent reactor, which has at least one ionic liquid. The ionic liquid dissolves intermolecular cellulose bonds of the feedstock to create a spinning dope. Cellulose fibers dissolved in the cellulose-bearing spinning dope solution are extruded in a cellulose coagulation bath reservoir to reconstitute at least some of the cellulose fibers, and the reconstituted fibers are wet-spun to form a continuous cellulose thread that is commercially indistinguishable from virgin fiber thread. ",
+},{
+  "name" : "US 20230147533 A1",
+  "content" : "Provided herein is a method of separating spandex from textile blends using biosolvents. The recovered material is of high purity while the chemical structure and molecular weight remain substantially unaffected by the treatment.",
+},{
+  "name" : "US 20210403857 A1",
+  "content" : "A system and method for creating mycelium textile materials is disclosed, in which leftover, cutoff, and other materials used to create the textile materials that would otherwise be discarded are further used in a second process to create bonded mycelium boards. The system and method further reuse or recycle materials throughout the process of creating the mycelium textile fabric and bonded mycelium boards, thus keeping waste to a minimum.",
+},{
+  "name" : "US 20210009784 A1",
+  "content" : "An added layer attached to a textile sheet using polymeric adhesive placed over a textile sheet or between the textile sheet and an added layer is removed by applying heat or a solvent and at least one of an abrasive action, squeezing, or shaving action to remove the adhesive layer or both the added layer and the adhesive sublayer and to prepare the textile sheet for recycling into a new textile structure, preferably into a textile sheet performing the same function as the original textile sheet.",
+},{
+  "name" : "US 20230125354 A1",
+  "content" : "What is shown is a method for the recovery of raw materials from blended textile wastes, which includes the following steps in the given order: a) providing blended textile waste that includes at least a cellulose component and at least a polyester component, b) treating the blended textile waste in an aqueous treatment solution in order to depolymerize the polyester component and dissolve it in the treatment solution, c) separating the cellulose component from the treatment solution and recovering a cellulose raw material, d) filtering the treatment solution in order to remove foreign substances, particularly dyes and metal ions, from the treatment solution, and e) precipitating terephthalic acid from the treatment solution, separating the precipitated terephthalic acid, and recovering a terephthalic-acid-including polyester raw material. In order to, within the scope of the mentioned method, enable the recovery of raw materials with an increased level of purity, it is proposed that filtering the treatment solution in step d) should at least comprise a filtration by an adsorbent filter medium.",
 }]
